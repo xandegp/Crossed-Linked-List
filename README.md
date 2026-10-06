@@ -20,8 +20,8 @@ The Crossed Linked List is a data structure that is a better way to store data i
 11. free_all
 
 ## Pre-Requisits:
-*GCC or any C compiler
-*Git
+* GCC or any C compiler
+* Git
 
 ## How to use:
 * Download the Input files in this repository (you can also download the Output files to compare the output that the program make in your local envirement)
