@@ -27,8 +27,9 @@ The Crossed Linked List is a data structure that is a better way to store data i
 * Download the Input files in this repository (you can also download the Output files to compare the output that the program make in your local envirement)
 
 * Download the repository on your local environment copying and pasting the following code on your terminal:
-
+```
     git clone https://github.com/xandegp/Cross-Linked-List.git
+```
 
 * Locate which directory the file was saved
 
