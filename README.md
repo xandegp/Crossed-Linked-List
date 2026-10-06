@@ -39,6 +39,9 @@ The Crossed Linked List is a data structure that is a better way to store data i
 * Still at the terminal, past the following code:
 ```
     gcc -Wall -o Cross-Linked-List Cross-Linked-List.c
+```
+```
+
     ./Cross-Linked-List (name of the input file).txt (name of a file that the program will make).txt
 ```
 ![Crossed_Linked_List_Image](https://raw.githubusercontent.com/xandegp/Cross-Linked-List/cb437ab2f80cf34466c42cb64bf8d021c823be27/Crossed%20Linked-List.jpg)
